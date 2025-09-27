@@ -5,7 +5,7 @@ import TwoFactorAuth from "./pages/TwoFactorAuth";
 import Login from "./pages/Login";
 import ForgotPassword from "./pages/ForgotPassword";
 import ResetPassword from "./pages/ResetPassword";
-
+import DashboardPage from "./pages/DashboardPage"; // Import Dashboard
 
 function App() {
   return (
@@ -17,7 +17,7 @@ function App() {
         <Route path="/login" element={<Login />} />
         <Route path="/forgot-password" element={<ForgotPassword />} />
         <Route path="/reset-password" element={<ResetPassword />} />
-      
+        <Route path="/dashboard" element={<DashboardPage />} /> {/* Dashboard route */}
       </Routes>
     </Router>
   );
