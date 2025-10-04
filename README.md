@@ -1,4 +1,4 @@
-# 🌍 AI-Driven Life Cycle Assessment (LCA) Tool  
+# 🌍 AI-Driven Life Cycle Assessment Tool  
 ### *Advancing Circularity and Sustainability in Metallurgy and Mining*  
 
 [![MERN Stack](https://img.shields.io/badge/Stack-MERN-green?logo=mongodb&logoColor=white)]()  
